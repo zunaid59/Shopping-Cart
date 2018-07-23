@@ -1,0 +1,107 @@
+
+/*  Category Add Form style*/
+
+.main-content{
+    margin-bottom: 75px;
+}
+/*   Category Add Form style End      */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.page-header{
+    height: 10px;
+}
+p{
+    font-size: 13px;
+}
+
+ul{
+    list-style: none;
+}
+
+.navbar-default {
+    background-color: #ffff66!important;
+
+}
+
+.navar-collapse{
+    background-color: black;
+}
+.navar-collapse:hover {
+    background-color: #2b542c;
+}
+
+.navbar-default .navbar-nav > li:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a,
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: white;
+    color: rgb(85, 85, 85);
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+
+.panel-heading{
+    background-color: #ffff66!important;
+}
+
+span{
+    margin-left: 5px;
+}
+.panel-footer{
+    background: rgba(12, 10, 11, 0.69);
+    color: white;
+}
+
+.footer li{
+    display: inline;
+}
+
+
+ .footer ul li a i{
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+    font-size: 18px;
+
+}
+
+.footer ul{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.footer i.fa-facebook{
+    background: #3b5998;
+    text-align: center;
+}
+
+.footer i.fa-twitter{
+    background: #55acee;
+    text-align: center;
+}
+
+.footer i.fa-google-plus{
+    background:  #dd4b39;
+    text-align: center;
+}
+
+.footer i.fa-youtube{
+    background-color: #ff0000;
+    text-align: center;
+}
+
+.footer i.fa-linkedin{
+    background: #007bb5;
+    text-align: center;
+}
+
+.panel-footer hr{
+   border-color: white;
+
+}
